@@ -1,5 +1,5 @@
 package Vault_Application;
 
-public class authanticationInterface {
-
+public interface authanticationInterface {
+    
 }
