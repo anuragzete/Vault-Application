@@ -1,4 +1,5 @@
-package Vault_Application;
+/*
+package Vault_Application.authantication;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
@@ -12,7 +13,6 @@ public class hashPassword {
     private String password;
     private static String hashPasswordToString;
     private static String saltToString;
-    private static boolean isRegistered = false;
 
     hashPassword(String password){
         this.password = password;
@@ -73,3 +73,4 @@ public class hashPassword {
 
 
 
+*/

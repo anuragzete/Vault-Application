@@ -1,4 +1,4 @@
-package Vault_Application;
+package Vault_Application.gui;
 
 public class vaultSettings {
 }
